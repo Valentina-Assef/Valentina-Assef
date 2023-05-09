@@ -18,13 +18,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Valentina-Assef&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Valentina-Assef&theme=default&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-Assef&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-## Proyectos
+## 💻 Proyectos
 ### Portfolio
 ### Amazing Events
 ### FrontendMentor-Challenge
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Valentina-Assef&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-Assef&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
