@@ -1,5 +1,6 @@
 ### Hola! 👋 soy Valen y soy Front End Developer Jr.
-<p>Aqui encontraras algunos de mis proyetos propios, de cursos de desarrollo y challenges de prácticas.<p/>
+## Aqui encontraras proyectos propios, de cursos de desarrollo y challenges de prácticas.
+
 ## 🌐 Contactame:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Valentina Assef#0254)
 <br/>
