@@ -22,8 +22,8 @@
 
 ## 💻 Principal Projects
 ### Portfolio => https://github.com/Valentina-Assef/Portfolio-Valentina-Assef.git
-### Amazing Events
-### FrontendMentor-Challenge
+### Amazing Events => https://github.com/Valentina-Assef/AmazingEvents.git
+### FrontendMentor-Challenge => https://github.com/Valentina-Assef/FrontendMentor-Challenges.git
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Valentina-Assef&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
