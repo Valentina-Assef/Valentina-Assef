@@ -1,8 +1,7 @@
-### Hola! 👋 soy Valen y soy Desarrolladora Front End Jr.
-### Aqui encontraras proyectos propios, de cursos de desarrollo y challenges de práctica.
-
-## 🌐 Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentina-assef) 
+<div align="center">
+  <h2>Hola! 👋 soy Valen y soy Desarrolladora Front End Jr.</h2>
+  <h3>Aqui encontraras proyectos propios, de cursos de desarrollo y challenges de práctica</h3>
+</div> 
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
