@@ -1,9 +1,7 @@
-### Hola! 👋 soy Valen y soy Front End Developer Jr.
+### Hola! 👋 soy Valen y soy Desarrolladora Front End Jr.
 ### Aqui encontraras proyectos propios, de cursos de desarrollo y challenges de práctica.
 
 ## 🌐 Contactame:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Valentina Assef#0254)
-<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valentina-assef) 
 
 # 💻 Tech Stack:
@@ -13,5 +11,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Valentina-Assef&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Valentina-Assef&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Proyectos
+# Portfolio
+# Amazing Events
+# 
+
+
+
