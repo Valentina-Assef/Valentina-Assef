@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hola! 👋 soy Valen y soy Desarrolladora Front End Jr.</h2>
+  <h1>Hola! 👋 soy Valen y soy Desarrolladora Front End Jr.</h1>
   <h3>Aqui encontraras proyectos propios, de cursos de desarrollo y challenges de práctica</h3>
 </div> 
 
