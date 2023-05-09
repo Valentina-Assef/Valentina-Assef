@@ -1,9 +1,11 @@
 <div align="center">
-  <h1>Hola! 👋 soy Valen y soy Desarrolladora Front End Jr.</h1>
-  <h3>Aqui encontraras proyectos propios, de cursos de desarrollo y challenges de práctica</h3>
+  <h2>Hi! 👋 I'm Valen and I'm Front End Developer Jr.</h2>
+  <h3>Here you will find my own projects, some from development courses and others for practice challenges.</h3>
 </div> 
 
-## 💻 Tech Stack:
+<div align="center">
+  
+## 💻 Tech Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -16,8 +18,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br />
+</div>
 
-## 💻 Proyectos
+## 💻 Principal Projects
 ### Portfolio
 ### Amazing Events
 ### FrontendMentor-Challenge
