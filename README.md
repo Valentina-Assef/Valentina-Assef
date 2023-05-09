@@ -21,11 +21,14 @@
 </div>
 
 ## 💻 Principal Projects
-### Portfolio => https://github.com/Valentina-Assef/Portfolio-Valentina-Assef.git
-### Amazing Events => https://github.com/Valentina-Assef/AmazingEvents.git
-### FrontendMentor-Challenge => https://github.com/Valentina-Assef/FrontendMentor-Challenges.git
+[![Portfolio-Valentina-Assef](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Portfolio-Valentina-Assef&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Valentina-Assef/Portfolio-Valentina-Assef)
+[![AmazingEvents](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AmazingEvents&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Valentina-Assef/AmazingEvents)
+[![FrontendMentor-Challenges](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=FrontendMentor-Challenges&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Valentina-Assef/FrontendMentor-Challenges)
+
+<p align="left">
+  <a href="https://github.com/Valentina-Assef?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
