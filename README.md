@@ -27,7 +27,7 @@
 [![FrontendMentor-Challenges](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=FrontendMentor-Challenges&theme=dracula&hide_border=false)](https://github.com/Valentina-Assef/FrontendMentor-Challenges)
 
 <p align="left">
-  <a href="https://github.com/Valentina-Assef?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Valentina-Assef?tab=repositories" target="_blank" style="background-color: #686467 !important;"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 <br/>
 
