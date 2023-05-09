@@ -26,5 +26,6 @@
 ### FrontendMentor-Challenge => https://github.com/Valentina-Assef/FrontendMentor-Challenges.git
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Valentina-Assef&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-Assef&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
