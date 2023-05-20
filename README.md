@@ -22,9 +22,9 @@
 <br/>
 
 ## 💻 Principal Projects
-[![AmazingEvents](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AmazingEvents&theme=dracula&hide_border=false)](https://github.com/Valentina-Assef/AmazingEvents)
-[![FrontendMentor-Challenges](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=FrontendMentor-Challenges&theme=dracula&hide_border=false)](https://github.com/Valentina-Assef/FrontendMentor-Challenges)
-[![Portfolio-FullStack](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Portfolio-FullStack&theme=dracula&hide_border=false)](https://github.com/Valentina-Assef/Portfolio-FullStack)
+[![AmazingEvents](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AmazingEvents&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/AmazingEvents)
+[![FrontendMentor-Challenges](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=FrontendMentor-Challenges&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/FrontendMentor-Challenges)
+[![Portfolio-FullStack](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Portfolio-FullStack&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Portfolio-FullStack)
 
 <p align="left">
   <a href="https://github.com/Valentina-Assef?tab=repositories" target="_blank" style="background-color: #686467 !important;"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -32,5 +32,5 @@
 <br/>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Valentina-Assef&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
