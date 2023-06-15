@@ -24,6 +24,8 @@
 ## 💻 Principal Projects
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Portfolio&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Portfolio)
 [![AmazingEvents](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AmazingEvents&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/AmazingEvents)
+[![Graffiti-Wall](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Graffiti-Wall&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Graffiti-Wall)
+[![Challenge-qr-code](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Challenge-qr-code&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Challenge-qr-code)
 
 
 <p align="left">
