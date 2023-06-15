@@ -22,7 +22,7 @@
 <br/>
 
 ## 💻 Principal Projects
-[![Portfolio-FullStack](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Portfolio-FullStack&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Portfolio-FullStack)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Portfolio&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Portfolio)
 [![AmazingEvents](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AmazingEvents&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/AmazingEvents)
 
 
