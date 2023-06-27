@@ -25,7 +25,7 @@
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Portfolio&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Portfolio)
 [![AmazingEvents](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=AmazingEvents&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/AmazingEvents)
 [![Graffiti-Wall](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=Graffiti-Wall&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/Graffiti-Wall)
-[![contador-de-clics-React](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=contador-de-clics-React&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/contador-de-clics-React)
+[![ContadorDeClics-React](https://github-readme-stats.vercel.app/api/pin/?username=Valentina-Assef&repo=ContadorDeClics-React&theme=dracula&hide_border=true)](https://github.com/Valentina-Assef/ContadorDeClics-React)
 
 
 <p align="left">
